@@ -1,0 +1,2 @@
+# richard
+First project directory
